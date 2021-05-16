@@ -23,6 +23,9 @@
     ],
     "rules": {
         "prettier/prettier" : "error",
-        "react/jsx-filename-extension": [1, {"extensons": [".js", ".jsx"]}]
+        "react/jsx-filename-extension": [1, {"extensons": [".js", ".jsx"]}],
+        "react/props-types": "ignore",
+        "custom": "ignore",
+        "exceptions": [""]
     }
 }
