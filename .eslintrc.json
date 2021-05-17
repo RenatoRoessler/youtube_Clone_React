@@ -26,6 +26,7 @@
         "react/jsx-filename-extension": [1, {"extensons": [".js", ".jsx"]}],
         "react/props-types": "ignore",
         "custom": "ignore",
-        "exceptions": [""]
+        "exceptions": [""],
+        "import/no-unresolved": "off"
     }
 }
